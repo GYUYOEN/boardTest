@@ -1,0 +1,9 @@
+
+e
+java:S1192,"HDefine a constant instead of duplicating this literal "storeNo" 3 times.(›Ûƒ8¬ïİ¦–/
+e
+java:S11920"HDefine a constant instead of duplicating this literal "regDate" 3 times.(‚¦—8­ïİ¦–/
+c
+java:S1192/"FDefine a constant instead of duplicating this literal "state" 3 times.(¿Æ±8®ïİ¦–/
+q
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ret".(•…ÙŠ

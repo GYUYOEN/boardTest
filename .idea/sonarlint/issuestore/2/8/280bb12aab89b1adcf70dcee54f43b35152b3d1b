@@ -1,0 +1,14 @@
+
+X
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
+W	java:S125"<This block of commented-out lines of code should be removed.(éÇöF8¯ýˆé¬/
+C	java:S108$")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+C	java:S1080")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+C	java:S108<")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(èÝÎÑþÿÿÿÿ
+C	java:S108v")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+D	java:S108‚")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+u
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+|
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ8ˆÝÄé—/

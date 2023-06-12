@@ -1,0 +1,124 @@
+
+j
+java:S1192È"GDefine a constant instead of duplicating this literal "reason" 4 times.(²Çˆıÿÿÿÿ8Ğ÷¸Ë±/
+_
+java:S1192¬"HDefine a constant instead of duplicating this literal "result_" 5 times.(¸ÁªĞ
+e
+java:S1192Ä"GDefine a constant instead of duplicating this literal "result" 7 times.(ôñ°å8Ñ÷¸Ë±/
+j
+java:S1192¬"GDefine a constant instead of duplicating this literal "000000" 3 times.(äØòÓıÿÿÿÿ8Ò÷¸Ë±/
+f
+java:S1192°"HDefine a constant instead of duplicating this literal "reason_" 4 times.(şñ¯8Ò÷¸Ë±/
+i
+java:S1192ğ"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(Şºş”8Ó÷¸Ë±/
+k
+java:S1192«"HDefine a constant instead of duplicating this literal "status" 10 times.(ú°Úºûÿÿÿÿ8Ó÷¸Ë±/
+R
+java:S1066Ü"/Merge this if statement with the enclosing one.(ƒ®ëÉıÿÿÿÿ8Ö÷¸Ë±/
+h	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(âÄûøÿÿÿÿ8à÷¸Ë±/
+h	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(ƒ‡‘÷ıÿÿÿÿ8á÷¸Ë±/
+h	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(‘æí¼øÿÿÿÿ8á÷¸Ë±/
+Y
+java:S1155e">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì³
+n	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğİ…á8å÷¸Ë±/
+s	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³±¶˜ùÿÿÿÿ8æ÷¸Ë±/
+n	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâ²8æ÷¸Ë±/
+r
+java:S1488…"[Immediately return this expression instead of assigning it to the temporary variable "ret".(şÃ¢Î
+„
+java:S1488†"fImmediately return this expression instead of assigning it to the temporary variable "serverTimeData".(éâï8û÷¸Ë±/
+L
+java:S1121Õ".Extract the assignment out of this expression.(Åú‘¼8ş÷¸Ë±/
+‚
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Îöçíøÿÿÿÿ8„ø¸Ë±/
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¼Øûì
+G
+java:S1172B"2Remove this unused method parameter "currentTime".(±˜ë
+R
+java:S1854}"7Remove this useless assignment to local variable "fdf".(¯×ºšùÿÿÿÿ
+^	java:S125«"<This block of commented-out lines of code should be removed.(È‚Ø¨şÿÿÿÿ8™ø¸Ë±/
+|
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¥Ñşÿÿÿÿ8Ÿø¸Ë±/
+k
+java:S5361š"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ò»ŸÁúÿÿÿÿ8¢ø¸Ë±/
+K
+java:S1172"-Remove this unused method parameter "logger".(ÇÌÂ8£ø¸Ë±/
+V
+java:S1197"8Move the array designator from the variable to the type.(ÇÌÂ8¤ø¸Ë±/
+^	java:S125¢"<This block of commented-out lines of code should be removed.(¿Şß½ùÿÿÿÿ8¤ø¸Ë±/
+J
+java:S1125£"'Remove the unnecessary boolean literal.(»Ç§³ıÿÿÿÿ8¥ø¸Ë±/
+d
+java:S1126©"AReplace this if-then-else statement by a single return statement.( ¦ïøÿÿÿÿ8¦ø¸Ë±/
+[
+java:S1197¯"8Move the array designator from the variable to the type.(ØØèºûÿÿÿÿ8§ø¸Ë±/
+^	java:S125½"<This block of commented-out lines of code should be removed.(±ååüÿÿÿÿ8¨ø¸Ë±/
+d
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(Òé³¨ùÿÿÿÿ8­ø¸Ë±/
+Y
+java:S1854ö";Remove this useless assignment to local variable "locales".(ŸŠ³²8®ø¸Ë±/
+u
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(üöùıÿÿÿÿ8³ø¸Ë±/
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(õ‘Ë¼8¶ø¸Ë±/
+J
+java:S1125•"'Remove the unnecessary boolean literal.(ŠÖôøşÿÿÿÿ8·ø¸Ë±/
+J
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(ŠÖôøşÿÿÿÿ8¹ø¸Ë±/
+J
+java:S1125¨"'Remove the unnecessary boolean literal.(ŠÖôøşÿÿÿÿ8ºø¸Ë±/
+^	java:S125®"<This block of commented-out lines of code should be removed.(¡²­Äıÿÿÿÿ8¼ø¸Ë±/
+J
+java:S1125¹"'Remove the unnecessary boolean literal.(ŠÖôøşÿÿÿÿ8¾ø¸Ë±/
+^	java:S125¦"<This block of commented-out lines of code should be removed.(íû °øÿÿÿÿ8Ñø¸Ë±/
+J
+java:S1125È"'Remove the unnecessary boolean literal.(ôøÁ´üÿÿÿÿ8Ôø¸Ë±/
+]
+java:S1854Õ"?Remove this useless assignment to local variable "currentTime".(Åú‘¼8Õø¸Ë±/
+V
+java:S1197Ø"8Move the array designator from the variable to the type.(åÁôö8Öø¸Ë±/
+X	java:S125â"<This block of commented-out lines of code should be removed.(¿íƒu8Öø¸Ë±/
+^	java:S125ã"<This block of commented-out lines of code should be removed.(´ÉÓÍşÿÿÿÿ8×ø¸Ë±/
+F	java:S108¢")Either remove or fill this block of code.(”ı¾8Ûø¸Ë±/
+p
+java:S1871¹"MThis branch's code block is the same as the block for the branch on line 689.(ô÷ÿÿÿÿÿ8Üø¸Ë±/
+p
+java:S1871µ"MThis branch's code block is the same as the block for the branch on line 689.(ôË àúÿÿÿÿ8İø¸Ë±/
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(ú¬†¦8Şø¸Ë±/
+p
+java:S1871Ñ"MThis branch's code block is the same as the block for the branch on line 713.(ô÷ÿÿÿÿÿ8áø¸Ë±/
+p
+java:S1871Í"MThis branch's code block is the same as the block for the branch on line 713.(ôË àúÿÿÿÿ8àø¸Ë±/
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(ú¬†¦8áø¸Ë±/
+V
+java:S1197Ù"8Move the array designator from the variable to the type.(…±ï«8äø¸Ë±/
+w
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀşˆÖ8åø¸Ë±/
+[
+java:S1197â"8Move the array designator from the variable to the type.(º¬ “üÿÿÿÿ8èø¸Ë±/
+|
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘²²Çúÿÿÿÿ8èø¸Ë±/
+
+java:S1130ƒ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(âÄûøÿÿÿÿ8ìø¸Ë±/
+P
+java:S1172’"-Remove this unused method parameter "refUrl".(‘æí¼øÿÿÿÿ8ïø¸Ë±/
+p	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿«Œ¢øÿÿÿÿ8ğø¸Ë±/
+D
+java:S1172Ó"&Remove these unused method parameters.(’‡“Ï8ùø¸Ë±/
+m
+java:S1764Ö"JCorrect one of the identical sub-expressions on both sides of operator "-"(”ëéØøÿÿÿÿ8úø¸Ë±/
+E
+java:S1125â"'Remove the unnecessary boolean literal.(àôŸï8üø¸Ë±/
+E
+java:S1125ê"'Remove the unnecessary boolean literal.(àôŸï8ıø¸Ë±/
+E
+java:S1125ò"'Remove the unnecessary boolean literal.(àôŸï8ÿø¸Ë±/
+E
+java:S1125ú"'Remove the unnecessary boolean literal.(àôŸï8€ù¸Ë±/
+C
+java:S1481}"(Remove this unused "fdf" local variable.(¯×ºšùÿÿÿÿ
+N
+java:S1481×"+Remove this unused "result" local variable.(±µÑŠùÿÿÿÿ8‘ù¸Ë±/
+J
+java:S1481±"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8‘ù¸Ë±/

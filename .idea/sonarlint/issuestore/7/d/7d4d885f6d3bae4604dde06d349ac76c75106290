@@ -1,0 +1,95 @@
+
+e
+java:S1192R"JDefine a constant instead of duplicating this literal "sdatetime" 3 times.(­Óüùÿÿÿÿ
+b
+java:S1192p"GDefine a constant instead of duplicating this literal "widths" 3 times.(ËÛùøÿÿÿÿ
+e
+java:S1192["JDefine a constant instead of duplicating this literal "chartData" 3 times.(é“Èùøÿÿÿÿ
+d
+java:S1192Å"HDefine a constant instead of duplicating this literal "storeNo" 3 times.(ß×Ÿùÿÿÿÿ
+n
+java:S11928"SDefine a constant instead of duplicating this literal "/login/sessionfail" 4 times.(Ö«·³úÿÿÿÿ
+b
+java:S1192\"LDefine a constant instead of duplicating this literal "chartStores" 3 times.(Ú¨êÛ
+W
+java:S2184T"BCast one of the operands of this division operation to a "double".(Ã·È
+X
+java:S2184–"BCast one of the operands of this division operation to a "double".(Ã·È
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®âê
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®âê
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®âê
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®âê
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó°§Ö
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó°§Ö
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó°§Ö
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß×Ÿùÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß×Ÿùÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß×Ÿùÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷‰‡øÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷‰‡øÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷‰‡øÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷‰‡øÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñê¿»ÿÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñê¿»ÿÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñê¿»ÿÿÿÿÿ
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(‹î‡‘ùÿÿÿÿ
+V
+java:S18545";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+U
+java:S1854^":Remove this useless assignment to local variable "widths".(Í¿¬üùÿÿÿÿ
+:
+java:S1659A"$Declare "s_days" on a separate line.(Ú®âê
+?
+java:S1659A")Declare "s_sdateTime" on a separate line.(Ú®âê
+?
+java:S1659A")Declare "s_edateTime" on a separate line.(Ú®âê
+:
+java:S2185T"%Remove this silly call to "Math.ceil"(Ã·È
+V
+java:S1854}";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+V
+java:S1854Ÿ":Remove this useless assignment to local variable "widths".(Í¿¬üùÿÿÿÿ
+@
+java:S1659‰")Declare "s_sdateTime" on a separate line.(Ó°§Ö
+@
+java:S1659‰")Declare "s_edateTime" on a separate line.(Ó°§Ö
+;
+java:S2185–"%Remove this silly call to "Math.ceil"(Ã·È
+W
+java:S1854¾";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+V
+java:S1854æ":Remove this useless assignment to local variable "widths".(Í¿¬üùÿÿÿÿ
+E
+java:S1659Å")Declare "s_sdateTime" on a separate line.(ß×Ÿùÿÿÿÿ
+C
+java:S1659Å"'Declare "s_storeNo" on a separate line.(ß×Ÿùÿÿÿÿ
+W
+java:S1854ı";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+C
+java:S1659„"'Declare "s_storeNo" on a separate line.(º÷‰‡øÿÿÿÿ
+C
+java:S1659„"'Declare "s_kioskNo" on a separate line.(º÷‰‡øÿÿÿÿ
+E
+java:S1659„")Declare "s_sdateTime" on a separate line.(º÷‰‡øÿÿÿÿ
+@
+java:S1659…"$Declare "s_rows" on a separate line.(ñê¿»ÿÿÿÿÿ
+I
+java:S1659…"-Declare "s_currentPageNo" on a separate line.(ñê¿»ÿÿÿÿÿ
+E
+java:S1659…")Declare "s_inputPage" on a separate line.(ñê¿»ÿÿÿÿÿ
+[
+java:S1197É"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ8¥–…ÚË/
+G
+java:S14815",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+G
+java:S1481}",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+H
+java:S1481¾",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+H
+java:S1481ı",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+E
+java:S1481™".Remove this unused "dataCount" local variable.(ˆ¼íê
+@
+java:S1068"*Remove this unused "logger" private field.(Á™ş‹

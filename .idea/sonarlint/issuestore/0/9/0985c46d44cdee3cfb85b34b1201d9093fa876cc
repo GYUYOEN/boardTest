@@ -1,0 +1,59 @@
+
+f
+java:S1192@"KDefine a constant instead of duplicating this literal "storeCount" 3 times.(ÍŞÔşşÿÿÿÿ
+p
+java:S1192b"NDefine a constant instead of duplicating this literal "storeDataList" 3 times.(ò—‚÷úÿÿÿÿ8†ê­°/
+e
+java:S1192A"JDefine a constant instead of duplicating this literal "storelist" 3 times.(êîÍÚıÿÿÿÿ
+]
+java:S1192z"HDefine a constant instead of duplicating this literal "storeNo" 3 times.(ÓëX
+n
+java:S11922"SDefine a constant instead of duplicating this literal "/login/sessionfail" 5 times.(Ö«·³úÿÿÿÿ
+Y
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+k	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²—Ã¿ûÿÿÿÿ
+k	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²—Ã¿ûÿÿÿÿ
+e	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓëX
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔéŞÏ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔéŞÏ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔéŞÏ
+f	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓëX
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ
+V
+java:S1854/";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+T
+java:S1854,">Remove this useless assignment to local variable "commandMap".(ÜîìÕ
+Q
+java:S1854<";Remove this useless assignment to local variable "retList".(ÑÒòœ
+]	java:S125?"<This block of commented-out lines of code should be removed.(°‚îùıÿÿÿÿ8Í½§şË/
+V
+java:S1854J";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+C
+java:S1659R"(Declare "s_comments" on a separate line.(²—Ã¿ûÿÿÿÿ
+V
+java:S1854s";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+W
+java:S1854ˆ";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+?
+java:S1659"(Declare "s_comments" on a separate line.(ÔéŞÏ
+>
+java:S1659"'Declare "s_storeNo" on a separate line.(ÔéŞÏ
+W
+java:S1854¬";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+E
+java:S1481,"/Remove this unused "commandMap" local variable.(ÜîìÕ
+G
+java:S1481/",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+G
+java:S14818",Remove this unused "retList" local variable.(ú¬åöşÿÿÿÿ
+G
+java:S1481J",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+G
+java:S1481s",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+H
+java:S1481ˆ",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+H
+java:S1481¬",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(®éÎÚüÿÿÿÿ

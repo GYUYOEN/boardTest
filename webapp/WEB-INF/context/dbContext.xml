@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:tx="http://www.springframework.org/schema/tx"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+
+	<bean id="CommonDS" class="com.zaxxer.hikari.HikariDataSource" destroy-method="close">
+		<constructor-arg>
+			<bean class="com.zaxxer.hikari.HikariConfig">
+				<constructor-arg>
+					<props>
+						<prop key="dataSource.url">jdbc:mysql://${CommonDS.ip}:${CommonDS.port}/${CommonDS.dbname}?${CommonDS.option}</prop>
+						<prop key="dataSource.user">${CommonDS.user}</prop>
+						<prop key="dataSource.password">${CommonDS.password}</prop>
+						<prop key="dataSource.cachePrepStmts">true</prop>
+						<prop key="dataSource.prepStmtCacheSize">250</prop>
+						<prop key="dataSource.prepStmtCacheSqlLimit">2048</prop>
+						<prop key="dataSource.useServerPrepStmts">true</prop>
+					</props>
+				</constructor-arg>
+				<property name="dataSourceClassName" value="com.mysql.jdbc.jdbc2.optional.MysqlDataSource" />
+				<property name="autoCommit" value="false" />
+				<property name="minimumIdle" value="1" />
+				<property name="maximumPoolSize" value="5" />
+				<property name="connectionTestQuery" value="select 1" />
+				<property name="connectionTimeout" value="300000" />
+			</bean>
+		</constructor-arg>
+	</bean>
+
+	<bean id="dataSource" class="com.company.board.datasource.RoutingDataSource">
+		<!-- All DataSource List -->
+		<property name="targetDataSources">
+			<map key-type="int">
+				<entry key="0" value-ref="CommonDS" />
+			</map>
+		</property>
+		<!-- Default DataSource -->
+		<property name="defaultTargetDataSource" ref="CommonDS" />
+		<!-- Common DataSource No -->
+		<property name="commonDSNo" value="0" />
+	</bean>
+
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource"/>
+	</bean>
+
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dataSource"/>
+		<property name="typeAliasesPackage" value="com.company.board.vo"/>
+		<property name="mapperLocations" value="classpath*:com/company/board/mybatis/*.xml"/>
+	</bean>
+
+	<bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate" destroy-method="clearCache">
+		<constructor-arg index="0" ref="sqlSessionFactory" />
+	</bean>
+
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+</beans>

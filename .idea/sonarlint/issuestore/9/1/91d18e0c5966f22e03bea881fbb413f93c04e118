@@ -1,0 +1,13 @@
+
+j
+java:S1104"OMake day a static final constant or non-public and provide accessors if needed.(û´ÿÿÿÿÿ
+n
+java:S1104"SMake storeNo a static final constant or non-public and provide accessors if needed.(Éš‘¥şÿÿÿÿ
+n
+java:S1104	"SMake costSum a static final constant or non-public and provide accessors if needed.(â‰Í‹úÿÿÿÿ
+k
+java:S1104"UMake dayString a static final constant or non-public and provide accessors if needed.(Ï»×ü
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²Áëª§/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñœé8—Åìª§/

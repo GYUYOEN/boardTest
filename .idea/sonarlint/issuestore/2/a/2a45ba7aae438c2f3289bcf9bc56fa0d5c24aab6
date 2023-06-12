@@ -1,0 +1,6 @@
+
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Þ·‹íÿÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºýÿÿÿÿ
+‡
+java:S1130G"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Þ·‹íÿÿÿÿÿ

@@ -1,0 +1,28 @@
+
+T
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+W
+java:S2259"@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù
+^
+java:S2259"BA "NullPointerException" could be thrown; "file" is nullable here.(²Œ­ûÿÿÿÿ
+m
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğëêâüÿÿÿÿ
+t
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+B
+java:S1125S"'Remove the unnecessary boolean literal.(çõêãşÿÿÿÿ
+B
+java:S1125S"'Remove the unnecessary boolean literal.(çõêãşÿÿÿÿ
+B
+java:S1125a"'Remove the unnecessary boolean literal.(çõêãşÿÿÿÿ
+B
+java:S1125a"'Remove the unnecessary boolean literal.(çõêãşÿÿÿÿ
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+F
+java:S2093…"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S1481Š")Remove this unused "name" local variable.(ú‹Ñøÿÿÿÿ
+E
+java:S1068#"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

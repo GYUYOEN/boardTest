@@ -1,0 +1,41 @@
+
+]
+java:S1192<"HDefine a constant instead of duplicating this literal "storeNo" 5 times.(‚ô«<
+d
+java:S1192Y"IDefine a constant instead of duplicating this literal "comments" 4 times.(ˆÒ‡Åùÿÿÿÿ
+\
+java:S1192u"FDefine a constant instead of duplicating this literal "state" 3 times.(ŠëÀŠ
+^
+java:S1192Z"HDefine a constant instead of duplicating this literal "recDate" 4 times.(Êå¤×
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(î„°Ò
+T
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+Y
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+T
+java:S1155n">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+U
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+\
+java:S1155Ø">Use isEmpty() to check whether the collection is empty or not.(©¤Ğ8¸ƒû«°/
+^
+java:S2259W"CA "NullPointerException" could be thrown; "store" is nullable here.(Ï´İ‰üÿÿÿÿ
+T
+java:S2589n"7Remove this expression which always evaluates to "true"(•ñ¥À8ª•öª°/
+N
+java:S2589Œ"7Remove this expression which always evaluates to "true"(•ñ¥À
+Y
+java:S1128">Remove this unused import 'com.company.cmstools.common.Utils'.(”Ìúûÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(ë…«¯
+V	java:S125/"<This block of commented-out lines of code should be removed.(“Ó³ıÿÿÿÿ
+t
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(‡Ò‚„üÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(Øü‰ÿÿÿÿÿ
+ƒ
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(î„°Ò
+^	java:S125‰"<This block of commented-out lines of code should be removed.(ƒ»—üÿÿÿÿ8‘Ãæ¬/
+E
+java:S1068"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

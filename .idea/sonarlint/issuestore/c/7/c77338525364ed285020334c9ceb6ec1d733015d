@@ -1,0 +1,105 @@
+
+d
+java:S11921"NDefine a constant instead of duplicating this literal "currentPageNo" 4 times.(©Óî€
+f
+java:S1192A"KDefine a constant instead of duplicating this literal "contentsNo" 3 times.(ïŒúÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Óî€
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Óî€
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Óî€
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Óî€
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÅé¯
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÅé¯
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÅé¯
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÅé¯
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òØ’Õ
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òØ’Õ
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òØ’Õ
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òØ’Õ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŒÈ¥ûÿÿÿÿ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŒÈ¥ûÿÿÿÿ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŒÈ¥ûÿÿÿÿ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŒÈ¥ûÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÏşÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÏşÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÏşÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÏşÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÏşÿÿÿÿ
+P
+java:S1128
+":Remove this unused import 'com.company.cmstools.vo.Store'.(ÚÛ»ë
+a
+java:S1128"FRemove this unused import 'com.company.cmstools.service.KioskService'.(òß÷ùÿÿÿÿ
+\
+java:S1128	"FRemove this unused import 'com.company.cmstools.service.StoreService'.(ãê÷…
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+V
+java:S1854*";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+:
+java:S16591"$Declare "s_rows" on a separate line.(©Óî€
+C
+java:S16591"-Declare "s_currentPageNo" on a separate line.(©Óî€
+?
+java:S16591")Declare "s_inputPage" on a separate line.(©Óî€
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+S
+java:S1197T"8Move the array designator from the variable to the type.(¶Ñä­ûÿÿÿÿ
+V
+java:S1854h";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+T
+java:S1854q">Remove this useless assignment to local variable "s_comments".(òØ’Õ
+T
+java:S1854q">Remove this useless assignment to local variable "s_category".(òØ’Õ
+R
+java:S1854q"<Remove this useless assignment to local variable "s_serial".(òØ’Õ
+S
+java:S1854q"=Remove this useless assignment to local variable "s_storeNo".(òØ’Õ
+:
+java:S1659p"$Declare "s_rows" on a separate line.(ìÅé¯
+C
+java:S1659p"-Declare "s_currentPageNo" on a separate line.(ìÅé¯
+?
+java:S1659p")Declare "s_inputPage" on a separate line.(ìÅé¯
+=
+java:S1659q"'Declare "s_storeNo" on a separate line.(òØ’Õ
+<
+java:S1659q"&Declare "s_serial" on a separate line.(òØ’Õ
+>
+java:S1659q"(Declare "s_category" on a separate line.(òØ’Õ
+>
+java:S1659q"(Declare "s_comments" on a separate line.(òØ’Õ
+B
+java:S1659r"'Declare "s_version" on a separate line.(ÅŒÈ¥ûÿÿÿÿ
+?
+java:S1659r"$Declare "s_cost" on a separate line.(ÅŒÈ¥ûÿÿÿÿ
+C
+java:S1659r"(Declare "s_photoCnt" on a separate line.(ÅŒÈ¥ûÿÿÿÿ
+A
+java:S1659s"&Declare "s_maxCnt" on a separate line.(›ÄÏşÿÿÿÿ
+D
+java:S1659s")Declare "s_limitTime" on a separate line.(›ÄÏşÿÿÿÿ
+?
+java:S1659s"$Declare "s_time" on a separate line.(›ÄÏşÿÿÿÿ
+C
+java:S1659s"(Declare "s_autoTime" on a separate line.(›ÄÏşÿÿÿÿ
+E
+java:S1659s"*Declare "s_manualTime" on a separate line.(›ÄÏşÿÿÿÿ
+t
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+T
+java:S1197´"8Move the array designator from the variable to the type.(¶Ñä­ûÿÿÿÿ
+G
+java:S1481*",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+G
+java:S1481h",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+D
+java:S1481q".Remove this unused "s_storeNo" local variable.(òØ’Õ
+C
+java:S1481q"-Remove this unused "s_serial" local variable.(òØ’Õ
+E
+java:S1481q"/Remove this unused "s_category" local variable.(òØ’Õ
+E
+java:S1481q"/Remove this unused "s_comments" local variable.(òØ’Õ
+@
+java:S1068"*Remove this unused "logger" private field.(°†á×

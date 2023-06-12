@@ -1,0 +1,15 @@
+
+R	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(¶Š‘ö
+W	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(®µ½¿üÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìÕ ”þÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€¼œ½úÿÿÿÿ
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¹ÁÏ6
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ë–ˆìýÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€¼œ½úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Š‘ö
+P
+java:S1128":Remove this unused import 'com.company.cmstools.vo.Store'.(ÚÛ»ë
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼ÀÎ¿üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(úØÝïúÿÿÿÿ

@@ -1,0 +1,27 @@
+
+g
+java:S11920"QDefine a constant instead of duplicating this literal "contentsPhotoCnt" 4 times.(ğ©İğ
+k
+java:S1192."PDefine a constant instead of duplicating this literal "contentsVersion" 4 times.(Æ¾Ä§şÿÿÿÿ
+f
+java:S1192-"KDefine a constant instead of duplicating this literal "contentsNo" 4 times.(ÃÊÈƒùÿÿÿÿ
+b
+java:S1192/"MDefine a constant instead of duplicating this literal "contentsCost" 4 times.(ŒĞ—!
+T
+java:S1155i">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ìİï˜/
+X	java:S125!"<This block of commented-out lines of code should be removed.(ë…«¯8³‡³ë£/
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ×ºÍ
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¼â„şÿÿÿÿ
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+t
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß›áÑúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒ»—üÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

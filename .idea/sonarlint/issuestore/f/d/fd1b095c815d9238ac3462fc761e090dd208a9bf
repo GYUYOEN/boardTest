@@ -1,0 +1,19 @@
+
+]	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(ü¾Ÿ„øÿÿÿÿ8ãø§/
+n
+java:S1104"SMake kioskNo a static final constant or non-public and provide accessors if needed.(ÿ÷ôùÿÿÿÿ
+n
+java:S1104"SMake storeNo a static final constant or non-public and provide accessors if needed.(Éš‘¥şÿÿÿÿ
+h
+java:S1104"RMake serial a static final constant or non-public and provide accessors if needed.(ÓÜÒ”
+j
+java:S1104	"TMake category a static final constant or non-public and provide accessors if needed.(”…’ï
+m
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ªí€§/
+j
+java:S1104"TMake comments a static final constant or non-public and provide accessors if needed.(°¤µŸ
+l
+java:S1104"QMake state a static final constant or non-public and provide accessors if needed.( ó›çüÿÿÿÿ
+i
+java:S1104"SMake regDate a static final constant or non-public and provide accessors if needed.(âÕÿÆ

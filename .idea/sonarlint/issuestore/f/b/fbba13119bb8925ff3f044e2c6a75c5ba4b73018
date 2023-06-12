@@ -1,0 +1,97 @@
+
+]
+java:S1192±"FDefine a constant instead of duplicating this literal "logNo" 9 times.(µ‰ê§
+_
+java:S1192m"IDefine a constant instead of duplicating this literal "classify" 6 times.(½ü“ñ
+`
+java:S11920"JDefine a constant instead of duplicating this literal "inputPage" 6 times.(ÏıæÅ
+b
+java:S1192©"FDefine a constant instead of duplicating this literal "goods" 6 times.(ò´œõùÿÿÿÿ
+f
+java:S1192P"KDefine a constant instead of duplicating this literal "totalCount" 3 times.(–Ÿ°ƒøÿÿÿÿ
+j
+java:S1192+"ODefine a constant instead of duplicating this literal "currentPageNo" 16 times.(‹â›ùÿÿÿÿ
+_
+java:S1192É"HDefine a constant instead of duplicating this literal "clslist" 3 times.(òšƒ
+b
+java:S1192È"KDefine a constant instead of duplicating this literal "clsfyCount" 3 times.(Ò‹İá
+_
+java:S1192U"JDefine a constant instead of duplicating this literal "clasylist" 4 times.(ñ©øM
+_
+java:S1192q"IDefine a constant instead of duplicating this literal "contents" 6 times.(¸ûÔƒ
+_
+java:S1192õ"HDefine a constant instead of duplicating this literal "classNo" 9 times.(º¥ã–
+f
+java:S1192Q"KDefine a constant instead of duplicating this literal "totalPages" 3 times.(•Î¾øÿÿÿÿ
+c
+java:S1192T"HDefine a constant instead of duplicating this literal "retList" 3 times.(„ÅÕùÿÿÿÿ
+c
+java:S1192i"HDefine a constant instead of duplicating this literal "device" 12 times.(œ‘Î±ÿÿÿÿÿ
+a
+java:S1192R"FDefine a constant instead of duplicating this literal "first" 3 times.(·…Àâıÿÿÿÿ
+Z
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+Z
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+=
+java:S1125%"'Remove the unnecessary boolean literal.(Ìú¼å
+B
+java:S1125+"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+B
+java:S1125+"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+=
+java:S11250"'Remove the unnecessary boolean literal.(ÏıæÅ
+S
+java:S1197<"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(®ˆøÿ
+7
+java:S3457F"Not enough arguments.(ìÂÂ¬ÿÿÿÿÿ8¨óÙèš/
+7
+java:S3457H"Not enough arguments.(˜Óò÷ıÿÿÿÿ8©óÙèš/
+B
+java:S1125v"'Remove the unnecessary boolean literal.(àÛÇùÿÿÿÿ
+=
+java:S1125~"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125„"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125„"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+T
+java:S1197"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¼×óñüÿÿÿÿ
+>
+java:S1125½"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125Ã"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125Ã"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+T
+java:S1197Î"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»³ÛÂıÿÿÿÿ
+>
+java:S1125¤"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125ª"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125ª"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+>
+java:S1125¯"'Remove the unnecessary boolean literal.(ÏıæÅ
+U
+java:S1854»">Remove this useless assignment to local variable "commandMap".(ÜîìÕ
+R
+java:S1854Ä";Remove this useless assignment to local variable "retList".(ÑÒòœ
+R
+java:S1854ä";Remove this useless assignment to local variable "retList".(ÑÒòœ
+V
+java:S1854ó"?Remove this useless assignment to local variable "currentTime".(¤¤ñ§
+F
+java:S1481»"/Remove this unused "commandMap" local variable.(ÜîìÕ
+H
+java:S1481À",Remove this unused "retList" local variable.(ú¬åöşÿÿÿÿ
+I
+java:S1481Õ"-Remove this unused "isInsert" local variable.(ÁíÊ¯şÿÿÿÿ
+H
+java:S1481à",Remove this unused "retList" local variable.(ú¬åöşÿÿÿÿ
+G
+java:S1481ó"0Remove this unused "currentTime" local variable.(¤¤ñ§

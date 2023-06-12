@@ -1,0 +1,16 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+TWeb:TableWithoutCaptionCheck#" Add a description to this table.( Ò§åüÿÿÿÿ8°ğÙóª/
+F	Web:S5256#"%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ8°ğÙóª/
+J	Web:S1827#")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ8°ğÙóª/
+K	Web:S1827$"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ8±ğÙóª/
+J	Web:S1827%")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ8±ğÙóª/
+HWeb:TableWithoutCaptionCheck0" Add a description to this table.(´°
+:	Web:S52560"%Add "<th>" headers to this "<table>".(´°
+>	Web:S18270")Remove this deprecated "width" attribute.(´°
+D	Web:S18270"/Remove this deprecated "cellpadding" attribute.(´°
+=	Web:S18272")Remove this deprecated "align" attribute.(¥û‚z
+GWeb:TableWithoutCaptionCheck2" Add a description to this table.(¥û‚z
+9	Web:S52562"%Add "<th>" headers to this "<table>".(¥û‚z

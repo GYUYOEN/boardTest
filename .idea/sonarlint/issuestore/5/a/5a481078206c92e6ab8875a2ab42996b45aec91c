@@ -1,0 +1,11 @@
+
+U
+java:S1128"?Remove this unused import 'com.company.cmstools.dao.CommonDao'.(î´© 
+C	java:S1085")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+C	java:S108L")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+C	java:S108X")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(èÝÎÑþÿÿÿÿ
+M
+java:S1135c"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

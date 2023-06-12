@@ -1,0 +1,112 @@
+
+h
+java:S2095î"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(†âÇàıÿÿÿÿ
+`
+java:S11927"JDefine a constant instead of duplicating this literal "inputPage" 3 times.(ÏıæÅ
+f
+java:S1192È"JDefine a constant instead of duplicating this literal "factoryID" 6 times.(¯ŠçÑùÿÿÿÿ
+f
+java:S1192S"KDefine a constant instead of duplicating this literal "totalCount" 3 times.(–Ÿ°ƒøÿÿÿÿ
+j
+java:S11922"ODefine a constant instead of duplicating this literal "currentPageNo" 20 times.(‹â›ùÿÿÿÿ
+_
+java:S1192y"IDefine a constant instead of duplicating this literal "uniqueID" 9 times.(Şæè²
+a
+java:S1192q"FDefine a constant instead of duplicating this literal "count" 6 times.(éÁõşÿÿÿÿ
+c
+java:S1192‰"GDefine a constant instead of duplicating this literal "param3" 6 times.(ßşÀ§úÿÿÿÿ
+^
+java:S1192"GDefine a constant instead of duplicating this literal "param1" 6 times.(œéµó
+^
+java:S1192…"GDefine a constant instead of duplicating this literal "param2" 6 times.(ˆÿøõ
+f
+java:S1192T"KDefine a constant instead of duplicating this literal "totalPages" 3 times.(•Î¾øÿÿÿÿ
+c
+java:S1192W"HDefine a constant instead of duplicating this literal "retList" 3 times.(„ÅÕùÿÿÿÿ
+a
+java:S1192U"FDefine a constant instead of duplicating this literal "first" 3 times.(·…Àâıÿÿÿÿ
+Y
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+Z
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+Z
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºà¬Ùüÿÿÿÿ
+Q
+java:S1854I";Remove this useless assignment to local variable "retList".(ÑÒòœ
+=
+java:S1125,"'Remove the unnecessary boolean literal.(Ìú¼å
+B
+java:S11252"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+B
+java:S11252"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+=
+java:S11257"'Remove the unnecessary boolean literal.(ÏıæÅ
+S
+java:S1197C"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(Øü‰ÿÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(šü¢şÿÿÿÿ
+R
+java:S1854®";Remove this useless assignment to local variable "retList".(ÑÒòœ
+m
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(øÿ«äúÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(àÛÇùÿÿÿÿ
+>
+java:S1125—"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+T
+java:S1197¨"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Øü‰ÿÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(šü¢şÿÿÿÿ
+R
+java:S1854ï";Remove this useless assignment to local variable "retList".(ÑÒòœ
+C
+java:S1125Ñ"'Remove the unnecessary boolean literal.(ÄßÒÅúÿÿÿÿ
+>
+java:S1125Ø"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125Ş"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125Ş"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+T
+java:S1197é"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(Øü‰ÿÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(šü¢şÿÿÿÿ
+>
+java:S1125"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125“"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125“"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(»³ÛÂıÿÿÿÿ
+>
+java:S1125É"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125Ï"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125Ï"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+5
+java:S2119ğ"Save and re-use this "Random".(–áÍÈ
+8	java:S131÷""Add a default case to this switch.(‡¼ÙĞ
+F
+java:S2093í"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+T
+java:S1197–"8Move the array designator from the variable to the type.(Á§·Çıÿÿÿÿ
+j
+java:S4042¢"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V	java:S899¢";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+k
+java:S1215­"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+G
+java:S1481E",Remove this unused "retList" local variable.(Øü‰ÿÿÿÿÿ
+H
+java:S1481ª",Remove this unused "retList" local variable.(Øü‰ÿÿÿÿÿ
+H
+java:S1481ë",Remove this unused "retList" local variable.(Øü‰ÿÿÿÿÿ
+F
+java:S1481â"/Remove this unused "commandMap" local variable.(ÜîìÕ

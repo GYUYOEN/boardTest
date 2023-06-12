@@ -1,0 +1,49 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+MWeb:TableWithoutCaptionCheck0" Add a description to this table.( Ò§åüÿÿÿÿ
+?	Web:S52560"%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ
+C	Web:S18270")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ
+D	Web:S18271"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+C	Web:S18272")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ
+D	Web:S1827?"/Remove this deprecated "cellspacing" attribute.(—ß„¯
+@	Web:S1827?"+Remove this deprecated "summary" attribute.(—ß„¯
+J	Web:S1827C")Remove this deprecated "width" attribute.( ÓÂ’ùÿÿÿÿ8àŠÌ–/
+J	Web:S1827b")Remove this deprecated "width" attribute.(Û•¦ºÿÿÿÿÿ8ÂÚ†Ã—/
+J	Web:S1827j")Remove this deprecated "width" attribute.(Û•¦ºÿÿÿÿÿ8Üş£¨/
+ZWeb:FieldsetWithoutLegendCheck="$Add a <legend> tag to this fieldset.(Ã úøÿÿÿÿ8Ó”ºÌ–/
+J	Web:S1827{")Remove this deprecated "align" attribute.(•—™ôÿÿÿÿÿ8Ó”ºÌ–/
+PWeb:TableWithoutCaptionCheck€" Add a description to this table.(ÿ…ğÁ8æ…’÷—/
+B	Web:S5256€"%Add "<th>" headers to this "<table>".(ÿ…ğÁ8ç…’÷—/
+L	Web:S1827€"/Remove this deprecated "cellpadding" attribute.(ÿ…ğÁ8ç…’÷—/
+L	Web:S1827€"/Remove this deprecated "cellspacing" attribute.(ÿ…ğÁ8ç…’÷—/
+F	Web:S1827€")Remove this deprecated "width" attribute.(ÿ…ğÁ8ç…’÷—/
+K	Web:S1827‚")Remove this deprecated "width" attribute.(ŞÃåùÿÿÿÿ8ç…’÷—/
+K	Web:S1827‚")Remove this deprecated "align" attribute.(ŞÃåùÿÿÿÿ8ç…’÷—/
+K	Web:S1827…")Remove this deprecated "width" attribute.(¯•¦‹ûÿÿÿÿ8ç…’÷—/
+K	Web:S1827…")Remove this deprecated "align" attribute.(¯•¦‹ûÿÿÿÿ8ç…’÷—/
+K	Web:S1827‡")Remove this deprecated "width" attribute.(ºÀğõúÿÿÿÿ8ç…’÷—/
+K	Web:S1827‡")Remove this deprecated "align" attribute.(ºÀğõúÿÿÿÿ8ç…’÷—/
+K	Web:S1827‰")Remove this deprecated "width" attribute.(‚Ÿ­úÿÿÿÿ8ç…’÷—/
+K	Web:S1827‹")Remove this deprecated "width" attribute.(Ã×º…şÿÿÿÿ8ç…’÷—/
+K	Web:S1827Œ")Remove this deprecated "width" attribute.(œåòßüÿÿÿÿ8ç…’÷—/
+K	Web:S1827Œ")Remove this deprecated "align" attribute.(œåòßüÿÿÿÿ8ç…’÷—/
+K	Web:S1827 ")Remove this deprecated "width" attribute.(œåòßüÿÿÿÿ8ç…’÷—/
+K	Web:S1827 ")Remove this deprecated "align" attribute.(œåòßüÿÿÿÿ8ç…’÷—/
+Q	Web:S1827«"/Remove this deprecated "cellspacing" attribute.(É»»ÿÿÿÿÿ8ãòÊÌ–/
+F	Web:S1827¯")Remove this deprecated "width" attribute.(˜¼‹Û8ôÎ–/
+F	Web:S1827°")Remove this deprecated "width" attribute.(Ñ€Û8ßÛíÌ–/
+K	Web:S1827±")Remove this deprecated "width" attribute.(ºò½¨ÿÿÿÿÿ8Á÷ËÂ—/
+F	Web:S1827²")Remove this deprecated "width" attribute.(åş…¯8ÌÌîÌ–/
+K	Web:S1827³")Remove this deprecated "width" attribute.(Éàû÷üÿÿÿÿ8¥¯«¨/
+F	Web:S1827µ")Remove this deprecated "width" attribute.(Ö°Êÿ8‹ÍÎ–/
+F	Web:S1827¶")Remove this deprecated "width" attribute.(ˆƒØ‘8ğ™Î–/
+K	Web:S1827·")Remove this deprecated "width" attribute.(…Ñº”ıÿÿÿÿ8©ŠëÂ—/
+E	Web:S1827À")Remove this deprecated "align" attribute.(»¡n8ãòÊÌ–/
+K	Web:S1827Á")Remove this deprecated "align" attribute.(ÛöÓÊûÿÿÿÿ8ãòÊÌ–/
+K	Web:S1827Â")Remove this deprecated "align" attribute.(Şˆùùÿÿÿÿ8ãòÊÌ–/
+F	Web:S1827Ã")Remove this deprecated "align" attribute.(ß§·™8ãòÊÌ–/
+K	Web:S1827Ê")Remove this deprecated "align" attribute.(‚óíçşÿÿÿÿ8Ê³ÿÌ–/
+K	Web:S1827Ë")Remove this deprecated "align" attribute.(®—ñ­ÿÿÿÿÿ8Æä«¨/
+K	Web:S1827Ì")Remove this deprecated "align" attribute.(ƒ²Šüùÿÿÿÿ8ŠÇİÂ—/

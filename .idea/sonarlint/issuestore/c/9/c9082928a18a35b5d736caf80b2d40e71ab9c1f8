@@ -1,0 +1,23 @@
+
+W	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(Ú¸šåÿÿÿÿÿ
+l
+java:S1104"VMake contentsNo a static final constant or non-public and provide accessors if needed.(üúº
+v
+java:S1104"[Make contentsVersion a static final constant or non-public and provide accessors if needed.(è¿Šãüÿÿÿÿ
+m
+java:S1104"XMake contentsCost a static final constant or non-public and provide accessors if needed.(é½ÄK
+w
+java:S1104	"\Make contentsPhotoCnt a static final constant or non-public and provide accessors if needed.(ªØ¹Åıÿÿÿÿ
+m
+java:S1104
+"WMake contentsMax a static final constant or non-public and provide accessors if needed.(×¬İÉ
+t
+java:S1104"YMake contentsLimit a static final constant or non-public and provide accessors if needed.(½„Äüÿÿÿÿ
+n
+java:S1104"XMake contentsTime a static final constant or non-public and provide accessors if needed.(¾ıÓİ
+q
+java:S1104"\Make contentsAutoTime a static final constant or non-public and provide accessors if needed.(’÷Ü?
+y
+java:S1104"^Make contentsManualTime a static final constant or non-public and provide accessors if needed.(¤ªâ“ùÿÿÿÿ
+i
+java:S1104"SMake regDate a static final constant or non-public and provide accessors if needed.(âÕÿÆ

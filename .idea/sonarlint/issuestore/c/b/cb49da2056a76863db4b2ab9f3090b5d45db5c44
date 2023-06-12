@@ -1,0 +1,55 @@
+
+\
+java:S2184,"FCast one of the operands of this multiplication operation to a "long".(üÎªÔ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(“ı¿Šûÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(‹¡±ùÿÿÿÿ
+h
+java:S2786:"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(îÎì÷
+h
+java:S2786?"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(­Ú¥–
+t	java:S115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã´ì°ıÿÿÿÿ
+t	java:S115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã´ì°ıÿÿÿÿ
+h
+java:S2786C"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¡–¾Ç
+i
+java:S2786ƒ"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(›™ü
+P	java:S125^"<This block of commented-out lines of code should be removed.(ÈôÎx
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+n
+java:S2786Ø"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(‹ŞÆşÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¢×‰ú
+i
+java:S2786ù"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(‘¢†Õ
+i
+java:S2786Œ"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(—³³®
+n
+java:S2786Ÿ"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(†íÕøÿÿÿÿ
+n
+java:S2786·"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Óé¦ùÿÿÿÿ
+h
+java:S2786Ò"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ç£ù'
+n
+java:S2786ä"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ò»¸ÿÿÿÿÿ
+i
+java:S2786ú"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ŒÈú”
+i
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(èúØ
+o	java:S115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂªÄ4
+o	java:S115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂªÄ4
+o	java:S115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂªÄ4
+n
+java:S2786¨"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ş–Î®ùÿÿÿÿ
+i
+java:S2786¿"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Æ‘ã
+n
+java:S2786Ö"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ò€ìÎÿÿÿÿÿ
+i
+java:S2786í"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¯åØ
+>
+java:S1125€"'Remove the unnecessary boolean literal.(·×ª†
+n
+java:S2786Š"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ÿ¨©ƒúÿÿÿÿ

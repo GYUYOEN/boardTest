@@ -1,0 +1,32 @@
+
+jWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8ËÉƒÌ/
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+MWeb:TableWithoutCaptionCheck," Add a description to this table.( Ò§åüÿÿÿÿ
+?	Web:S5256,"%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ
+C	Web:S1827,")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ
+D	Web:S1827-"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+J	Web:S1827.")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ8ûæ‰Ì/
+OWeb:TableWithoutCaptionCheckU" Add a description to this table.(¼… £8÷ÛÓÌ/
+A	Web:S5256U"%Add "<th>" headers to this "<table>".(¼… £8÷ÛÓÌ/
+E	Web:S1827U")Remove this deprecated "width" attribute.(¼… £8÷ÛÓÌ/
+K	Web:S1827U"/Remove this deprecated "cellpadding" attribute.(¼… £8÷ÛÓÌ/
+K	Web:S1827U"/Remove this deprecated "cellspacing" attribute.(¼… £8øÛÓÌ/
+J	Web:S1827W")Remove this deprecated "width" attribute.(²˜¨Çıÿÿÿÿ8øÛÓÌ/
+J	Web:S1827W")Remove this deprecated "align" attribute.(²˜¨Çıÿÿÿÿ8øÛÓÌ/
+E	Web:S1827b")Remove this deprecated "width" attribute.(µ¶Õô8øÛÓÌ/
+E	Web:S1827b")Remove this deprecated "align" attribute.(µ¶Õô8øÛÓÌ/
+E	Web:S1827h")Remove this deprecated "width" attribute.(Õâ±Ä8øÛÓÌ/
+E	Web:S1827h")Remove this deprecated "align" attribute.(Õâ±Ä8øÛÓÌ/
+E	Web:S1827|")Remove this deprecated "width" attribute.(Õâ±Ä8øÛÓÌ/
+E	Web:S1827|")Remove this deprecated "align" attribute.(Õâ±Ä8øÛÓÌ/
+XWeb:UnsupportedTagsInHtml5Check}"&Remove this deprecated "font" element.(§Á¾İ8øÛÓÌ/
+J	Web:S1827‰"/Remove this deprecated "cellspacing" attribute.(§ßÒÁıÿÿÿÿ
+K	Web:S1827")Remove this deprecated "align" attribute.(‚¹ƒøÿÿÿÿ8´ïµÌ/
+K	Web:S1827Ÿ")Remove this deprecated "align" attribute.(ã ¿ïşÿÿÿÿ8´ïµÌ/
+K	Web:S1827 ")Remove this deprecated "align" attribute.(¨®µàûÿÿÿÿ8ôş€ÛË/
+K	Web:S1827¡")Remove this deprecated "align" attribute.(­³”Óıÿÿÿÿ8ôş€ÛË/
+F	Web:S1827©")Remove this deprecated "align" attribute.(ˆÇŒô8ôş€ÛË/
+F	Web:S1827ª")Remove this deprecated "align" attribute.(ß§·™8ôş€ÛË/
+K	Web:S1827°")Remove this deprecated "align" attribute.(¤æ‘ùÿÿÿÿ8ôş€ÛË/
+F	Web:S1827±")Remove this deprecated "align" attribute.(Ä°Ç8ôş€ÛË/

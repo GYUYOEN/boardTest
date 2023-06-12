@@ -1,0 +1,53 @@
+
+c
+java:S1192K"HDefine a constant instead of duplicating this literal "storeNo" 3 times.(ÀŠœ×øÿÿÿÿ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´á™Žøÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀÈçÿÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀÈçÿÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀÈçÿÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀÈçÿÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŠœ×øÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŠœ×øÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŠœ×øÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'com.company.cmstools.vo.Receipt'.(þÔæûÿÿÿÿ
+P
+java:S1128":Remove this unused import 'com.company.cmstools.vo.Kiosk'.(ÍÛÿÒ
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ
+V
+java:S18540";Remove this useless assignment to local variable "locales".(À§·þÿÿÿÿ
+Q
+java:S1854E";Remove this useless assignment to local variable "storeNo".(„Á°
+X
+java:S1854K"=Remove this useless assignment to local variable "s_storeNo".(ÀŠœ×øÿÿÿÿ
+U
+java:S1854J":Remove this useless assignment to local variable "s_days".(ËÀÈçÿÿÿÿÿ
+H
+java:S1659J"-Declare "s_currentPageNo" on a separate line.(ËÀÈçÿÿÿÿÿ
+D
+java:S1659J")Declare "s_inputPage" on a separate line.(ËÀÈçÿÿÿÿÿ
+?
+java:S1659J"$Declare "s_days" on a separate line.(ËÀÈçÿÿÿÿÿ
+D
+java:S1659K")Declare "s_sdateTime" on a separate line.(ÀŠœ×øÿÿÿÿ
+D
+java:S1659K")Declare "s_edateTime" on a separate line.(ÀŠœ×øÿÿÿÿ
+B
+java:S1659K"'Declare "s_storeNo" on a separate line.(ÀŠœ×øÿÿÿÿ
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ƒÁœô
+Q	java:S125X"<This block of commented-out lines of code should be removed.(Õ¬×¡
+S
+java:S1197y"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+B
+java:S1481E",Remove this unused "storeNo" local variable.(„Á°
+G
+java:S14810",Remove this unused "locales" local variable.(À§·þÿÿÿÿ
+F
+java:S1481J"+Remove this unused "s_days" local variable.(ËÀÈçÿÿÿÿÿ
+I
+java:S1481K".Remove this unused "s_storeNo" local variable.(ÀŠœ×øÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(ˆ‹†‰ùÿÿÿÿ

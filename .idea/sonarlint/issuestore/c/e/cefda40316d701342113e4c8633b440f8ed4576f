@@ -1,0 +1,26 @@
+
+o
+java:S1104"TMake deleteNo a static final constant or non-public and provide accessors if needed.(‹÷„ôûÿÿÿÿ
+g
+java:S1104"QMake payNo a static final constant or non-public and provide accessors if needed.(þâ°‰
+n
+java:S1104"SMake storeNo a static final constant or non-public and provide accessors if needed.(Éš‘¥þÿÿÿÿ
+n
+java:S1104"SMake kioskNo a static final constant or non-public and provide accessors if needed.(ÿž÷ôùÿÿÿÿ
+i
+java:S1104"SMake payType a static final constant or non-public and provide accessors if needed.(¨õ”á
+j
+java:S1104	"OMake pay a static final constant or non-public and provide accessors if needed.(ÍÖíÙûÿÿÿÿ
+r
+java:S1104
+"WMake receiptType a static final constant or non-public and provide accessors if needed.(Â°¡íøÿÿÿÿ
+p
+java:S1104"UMake receiptNo a static final constant or non-public and provide accessors if needed.(Ç½Ê¡þÿÿÿÿ
+r
+java:S1104"WMake receiptDate a static final constant or non-public and provide accessors if needed.(ýß¨žùÿÿÿÿ
+m
+java:S1104"WMake billingData a static final constant or non-public and provide accessors if needed.(¤˜¢û
+q
+java:S1104"VMake deleteName a static final constant or non-public and provide accessors if needed.(›Íîžýÿÿÿÿ
+n
+java:S1104"SMake creDate a static final constant or non-public and provide accessors if needed.(‘©¼Úùÿÿÿÿ

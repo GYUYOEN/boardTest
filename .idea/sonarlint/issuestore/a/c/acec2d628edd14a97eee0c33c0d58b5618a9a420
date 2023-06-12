@@ -1,0 +1,18 @@
+
+U
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(…¦úÚ
+a
+java:S1155Ş">Use isEmpty() to check whether the collection is empty or not.(ÎÚ¥‘şÿÿÿÿ8¼«Ò¨Ÿ/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§Ó¥€
+Q	java:S125%"<This block of commented-out lines of code should be removed.(øìÏ²
+Q	java:S125("<This block of commented-out lines of code should be removed.(¿Õ¸•
+D
+java:S3010A")Remove this assignment of "thisInstance".(šÅ¬Úúÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(ˆ÷³Óúÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(ËÛİÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(¬œ­Š
+M
+java:S1751•"6Remove this "return" statement or make it conditional.(À†çö
+v
+java:S2175º"_A "ConcurrentHashMap<String, GameDataInfo>" cannot contain a "GameDataInfo" in a "String" type.(Œª²

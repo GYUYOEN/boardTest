@@ -1,0 +1,138 @@
+
+]
+java:S1192¦"FDefine a constant instead of duplicating this literal "logNo" 3 times.(µ‰ê§
+h
+java:S1192L"MDefine a constant instead of duplicating this literal "tabStoreList" 3 times.(Ğìè‚ÿÿÿÿÿ
+e
+java:S1192N"JDefine a constant instead of duplicating this literal "inputPage" 3 times.(‰€¥‡ÿÿÿÿÿ
+b
+java:S1192"FDefine a constant instead of duplicating this literal "goods" 3 times.(ò´œõùÿÿÿÿ
+g
+java:S1192"KDefine a constant instead of duplicating this literal "totalCount" 4 times.(¨Ôß ıÿÿÿÿ
+j
+java:S1192N"ODefine a constant instead of duplicating this literal "currentPageNo" 10 times.(‰€¥‡ÿÿÿÿÿ
+\
+java:S1192z"FDefine a constant instead of duplicating this literal "start" 3 times.(áÅ°î
+a
+java:S1192<"LDefine a constant instead of duplicating this literal "memberStore" 3 times.(ìéü^
+c
+java:S1192R"HDefine a constant instead of duplicating this literal "storeNo" 6 times.(°€ĞÖüÿÿÿÿ
+n
+java:S11926"SDefine a constant instead of duplicating this literal "/login/sessionfail" 3 times.(Ö«·³úÿÿÿÿ
+_
+java:S1192Ã"HDefine a constant instead of duplicating this literal "classNo" 3 times.(º¥ã–
+b
+java:S1192"KDefine a constant instead of duplicating this literal "totalPages" 4 times.(¨Ø—ï
+d
+java:S1192‘"HDefine a constant instead of duplicating this literal "retList" 4 times.(Êºûåûÿÿÿÿ
+f
+java:S1192N"KDefine a constant instead of duplicating this literal "searchWord" 6 times.(‰€¥‡ÿÿÿÿÿ
+c
+java:S1192¢"GDefine a constant instead of duplicating this literal "device" 3 times.(œ‘Î±ÿÿÿÿÿ
+b
+java:S1192"FDefine a constant instead of duplicating this literal "first" 4 times.(äÄÏåıÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´á™øÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+l	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´á™øÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÍÄãüÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÍÄãüÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÍÄãüÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÍÄãüÿÿÿÿ
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´á™øÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰€¥‡ÿÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+S
+java:S1128	"=Remove this unused import 'com.google.zxing.WriterException'.(˜ÿß
+V
+java:S18543";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+Q
+java:S1854I";Remove this useless assignment to local variable "storeNo".(„Á°
+T
+java:S1854N"9Remove this useless assignment to local variable "s_tab".(‰€¥‡ÿÿÿÿÿ
+?
+java:S1659N"$Declare "s_rows" on a separate line.(‰€¥‡ÿÿÿÿÿ
+H
+java:S1659N"-Declare "s_currentPageNo" on a separate line.(‰€¥‡ÿÿÿÿÿ
+D
+java:S1659N")Declare "s_inputPage" on a separate line.(‰€¥‡ÿÿÿÿÿ
+E
+java:S1659N"*Declare "s_searchWord" on a separate line.(‰€¥‡ÿÿÿÿÿ
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(İËä
+S
+java:S1197y"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¼×óñüÿÿÿÿ
+>
+java:S1125²"'Remove the unnecessary boolean literal.(Ìú¼å
+C
+java:S1125¸"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+C
+java:S1125¸"'Remove the unnecessary boolean literal.(‹â›ùÿÿÿÿ
+T
+java:S1197Ã"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+W
+java:S1854Ù";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+R
+java:S1854ï";Remove this useless assignment to local variable "storeNo".(„Á°
+I
+java:S1659õ"-Declare "s_currentPageNo" on a separate line.(¼ÍÄãüÿÿÿÿ
+E
+java:S1659õ")Declare "s_inputPage" on a separate line.(¼ÍÄãüÿÿÿÿ
+F
+java:S1659õ"*Declare "s_searchWord" on a separate line.(¼ÍÄãüÿÿÿÿ
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(­Ú‹
+T
+java:S1197Ÿ"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(ÿİï€
+d	java:S100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ›Ä
+W
+java:S1854Ú";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+R
+java:S1854ğ";Remove this useless assignment to local variable "storeNo".(„Á°
+U
+java:S1854õ"9Remove this useless assignment to local variable "s_tab".(‰€¥‡ÿÿÿÿÿ
+@
+java:S1659õ"$Declare "s_rows" on a separate line.(‰€¥‡ÿÿÿÿÿ
+I
+java:S1659õ"-Declare "s_currentPageNo" on a separate line.(‰€¥‡ÿÿÿÿÿ
+E
+java:S1659õ")Declare "s_inputPage" on a separate line.(‰€¥‡ÿÿÿÿÿ
+F
+java:S1659õ"*Declare "s_searchWord" on a separate line.(‰€¥‡ÿÿÿÿÿ
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÂàÙûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İËä
+W	java:S125‹"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+T
+java:S1197¡"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+Y	java:S125°"<This block of commented-out lines of code should be removed.(®­Ù8õ¦…š¾/
+B
+java:S1481I",Remove this unused "storeNo" local variable.(„Á°
+G
+java:S14813",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+E
+java:S1481N"*Remove this unused "s_tab" local variable.(‰€¥‡ÿÿÿÿÿ
+C
+java:S1481ï",Remove this unused "storeNo" local variable.(„Á°
+H
+java:S1481Ù",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+C
+java:S1481ğ",Remove this unused "storeNo" local variable.(„Á°
+H
+java:S1481Ú",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+F
+java:S1481õ"*Remove this unused "s_tab" local variable.(‰€¥‡ÿÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(£Ôìúÿÿÿÿ

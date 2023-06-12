@@ -1,0 +1,13 @@
+
+^
+java:S1128"<Remove this unused import 'com.company.cmstools.vo.Payment'.(—Ì¿›øÿÿÿÿ8Ù„ô™ª/
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+v
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡Ç‡8ÌÚê˜ª/
+v
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‡Ç‡8ÍÚê˜ª/
+E
+java:S1068"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

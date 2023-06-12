@@ -1,0 +1,10 @@
+
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄α™ψÿÿÿÿ
+M
+java:S3416"2Update this logger to use "AdminController.class".(γαχ‹ώÿÿÿÿ
+V
+java:S1854)";Remove this useless assignment to local variable "locales".(ΐ§·ώÿÿÿÿ
+G
+java:S1481)",Remove this unused "locales" local variable.(ΐ§·ώÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(γαχ‹ώÿÿÿÿ

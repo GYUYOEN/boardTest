@@ -1,0 +1,11 @@
+
+n
+java:S1104"SMake storeNo a static final constant or non-public and provide accessors if needed.(Ι‘¥ώÿÿÿÿ
+n
+java:S1104"SMake kioskNo a static final constant or non-public and provide accessors if needed.(ÿχτωÿÿÿÿ
+p
+java:S1104"UMake kioskType a static final constant or non-public and provide accessors if needed.(ΝΧύÿÿÿÿ
+k
+java:S1104"UMake kioskName a static final constant or non-public and provide accessors if needed.(ύ
+—
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ζ‘κ

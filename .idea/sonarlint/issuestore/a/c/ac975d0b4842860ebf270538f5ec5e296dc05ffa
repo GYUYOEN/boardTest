@@ -1,0 +1,26 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+MWeb:TableWithoutCaptionCheck." Add a description to this table.( Ò§åüÿÿÿÿ
+?	Web:S5256."%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ
+C	Web:S1827.")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ
+D	Web:S1827/"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+C	Web:S18270")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ
+D	Web:S1827R"/Remove this deprecated "cellspacing" attribute.(ŒòÈÕ
+@	Web:S1827R"+Remove this deprecated "summary" attribute.(ŒòÈÕ
+C	Web:S1827V")Remove this deprecated "width" attribute.(€î‘öûÿÿÿÿ
+C	Web:S1827V")Remove this deprecated "align" attribute.(€î‘öûÿÿÿÿ
+>	Web:S1827^")Remove this deprecated "width" attribute.(©ö¹
+>	Web:S1827^")Remove this deprecated "align" attribute.(©ö¹
+>	Web:S1827|")Remove this deprecated "width" attribute.(ø‰ë‚
+>	Web:S1827|")Remove this deprecated "align" attribute.(ø‰ë‚
+SWeb:FieldsetWithoutLegendCheckP"$Add a <legend> tag to this fieldset.(Ã úøÿÿÿÿ
+D	Web:S1827")Remove this deprecated "align" attribute.(«îÈïşÿÿÿÿ
+D	Web:S1827©")Remove this deprecated "align" attribute.(«îÈïşÿÿÿÿ
+D	Web:S1827«"/Remove this deprecated "cellspacing" attribute.(Ë¢€
+?	Web:S1827·")Remove this deprecated "align" attribute.(ÿ°
+?	Web:S1827¸")Remove this deprecated "scope" attribute.(—òü
+>	Web:S1827¹")Remove this deprecated "scope" attribute.(Ìÿ
+?	Web:S1827¾")Remove this deprecated "align" attribute.(ÎÕÊÿ
+@	Web:S1827¾"*Remove this deprecated "height" attribute.(ÎÕÊÿ

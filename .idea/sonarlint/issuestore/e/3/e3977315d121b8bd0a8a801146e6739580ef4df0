@@ -1,0 +1,28 @@
+
+j
+java:S1192o"ODefine a constant instead of duplicating this literal "loadGameSysVar" 3 times.(ìÑŸæşÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÏ¢ıÿÿÿÿ
+I
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+F
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Y
+java:S1128">Remove this unused import 'com.company.cmstools.common.Utils'.(”Ìúûÿÿÿÿ
+B
+java:S1125T"'Remove the unnecessary boolean literal.(ˆÇÁùÿÿÿÿ
+Q
+java:S1854o"6Remove this useless assignment to local variable "rs".(ìÑŸæşÿÿÿÿ
+Q
+java:S1854s"6Remove this useless assignment to local variable "rs".(›¨õºûÿÿÿÿ
+Q
+java:S1854v"6Remove this useless assignment to local variable "rs".(›¨õºûÿÿÿÿ
+V
+java:S1854¤":Remove this useless assignment to local variable "result".(±µÑŠùÿÿÿÿ
+V
+java:S1854¶":Remove this useless assignment to local variable "result".(¢‚åùÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(ˆîËÏûÿÿÿÿ
+=
+java:S1481`"'Remove this unused "rs" local variable.(çŒ»ò
+G
+java:S1481¤"+Remove this unused "result" local variable.(±µÑŠùÿÿÿÿ

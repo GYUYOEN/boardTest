@@ -1,0 +1,99 @@
+
+f
+java:S1192×"JDefine a constant instead of duplicating this literal "futureDay" 3 times.(ôŠ¬õûÿÿÿÿ
+f
+java:S1192Ú"JDefine a constant instead of duplicating this literal "kioskType" 3 times.(¸ˆÖüÿÿÿÿ
+a
+java:S1192u"FDefine a constant instead of duplicating this literal "today" 5 times.(Êİ©¹úÿÿÿÿ
+f
+java:S1192¡"JDefine a constant instead of duplicating this literal "startTime" 4 times.(í¢Ùïûÿÿÿÿ
+f
+java:S1192¨"JDefine a constant instead of duplicating this literal "kioskName" 4 times.(š®ôâüÿÿÿÿ
+e
+java:S1192§"IDefine a constant instead of duplicating this literal "kioskSum" 5 times.(¬ŠË üÿÿÿÿ
+d
+java:S1192Ø"HDefine a constant instead of duplicating this literal "storeNo" 9 times.(¿í¸øÿÿÿÿ
+_
+java:S1192Ù"HDefine a constant instead of duplicating this literal "kioskNo" 7 times.(Ğ˜æ½
+_
+java:S1192¢"HDefine a constant instead of duplicating this literal "endTime" 4 times.(®ğßª
+t	java:S135Ş"YReduce the total number of break and continue statements in this loop to use at most one.(´ÒÑüÿÿÿÿ
+U
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(ó…³Î
+U
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(ó…³Î
+U
+java:S1155İ">Use isEmpty() to check whether the collection is empty or not.(Òğß—
+U
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+U
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(Òğß—
+
+java:S1488“"cImmediately return this expression instead of assigning it to the temporary variable "chartString".(ÊøæŞøÿÿÿÿ
+
+java:S1488°"cImmediately return this expression instead of assigning it to the temporary variable "chartString".(ÊøæŞøÿÿÿÿ
+D
+java:S3010-")Remove this assignment of "thisInstance".(±‹æşÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷òÏ­
+V	java:S1259"<This block of commented-out lines of code should be removed.(ÉÉêøÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(şÒÈêûÿÿÿÿ
+A
+java:S1168M"+Return an empty collection instead of null.(¥¹ï
+o
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(›«®â
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+u
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+N
+java:S1854¿"8Remove this useless assignment to local variable "imsi".(¯öÎ3
+R	java:S125»"<This block of commented-out lines of code should be removed.(—¢ÎÉ
+i
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³ĞÔ“
+B
+java:S1168Í"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168Ğ"+Return an empty collection instead of null.(¥¹ï
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÁÀùÿÿÿÿ
+u
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(á¤À“øÿÿÿÿ
+p
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÍõò
+u
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+u
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÁÀùÿÿÿÿ
+p
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ğ
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÁÀùÿÿÿÿ
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ğ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(””…šúÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.( –Æºúÿÿÿÿ
+u
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(îÀıÿ
+?
+java:S1481·")Remove this unused "imsi" local variable.(â‹€Q
+J
+java:S1481Ë".Remove this unused "retString" local variable.(¼°·×úÿÿÿÿ

@@ -1,0 +1,7 @@
+
+B
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+J
+java:S1128	"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ
+}
+java:S4144L"`Update this method so that its implementation is not identical to "selectMemberList" on line 67.(Ó»„ö8€ûŒ€¯/

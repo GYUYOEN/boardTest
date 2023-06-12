@@ -1,0 +1,15 @@
+
+a
+java:S1192,"FDefine a constant instead of duplicating this literal "logNo" 5 times.(Ù†¤ƒøÿÿÿÿ
+c
+java:S1192["HDefine a constant instead of duplicating this literal "recTime" 4 times.(çå¢€úÿÿÿÿ
+a
+java:S1192 "FDefine a constant instead of duplicating this literal "goods" 7 times.(šüÅ‡úÿÿÿÿ
+b
+java:S1192!"GDefine a constant instead of duplicating this literal "device" 7 times.(¾øíùÿÿÿÿ
+p
+java:S1488{"[Immediately return this expression instead of assigning it to the temporary variable "ret".(ŠÕº-
+N
+java:S1854“"7Remove this useless assignment to local variable "ret".(‹ÍœŒ
+D
+java:S1481"(Remove this unused "ret" local variable.(‰Á©ıÿÿÿÿ

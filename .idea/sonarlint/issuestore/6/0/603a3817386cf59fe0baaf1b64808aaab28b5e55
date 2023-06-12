@@ -1,0 +1,26 @@
+
+jWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8Ï˜Ÿ¥/
+a	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8Ğ˜Ÿ¥/
+JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M8Ğ˜Ÿ¥/
+TWeb:TableWithoutCaptionCheck/" Add a description to this table.( Ò§åüÿÿÿÿ8Ñ˜Ÿ¥/
+F	Web:S5256/"%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ8Ñ˜Ÿ¥/
+J	Web:S1827/")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ8Ñ˜Ÿ¥/
+K	Web:S18270"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ8Ñ˜Ÿ¥/
+J	Web:S18271")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ8Ñ˜Ÿ¥/
+K	Web:S1827="/Remove this deprecated "cellspacing" attribute.(ŒòÈÕ8Ÿ²ÿ®§/
+G	Web:S1827="+Remove this deprecated "summary" attribute.(ŒòÈÕ8Ÿ²ÿ®§/
+J	Web:S1827A")Remove this deprecated "width" attribute.(€î‘öûÿÿÿÿ8íÕ©¯§/
+J	Web:S1827A")Remove this deprecated "align" attribute.(€î‘öûÿÿÿÿ8ş«ª¯§/
+E	Web:S1827I")Remove this deprecated "width" attribute.(©ö¹8“áª¯§/
+E	Web:S1827I")Remove this deprecated "align" attribute.(©ö¹8“áª¯§/
+E	Web:S1827g")Remove this deprecated "width" attribute.(ø‰ë‚8²Ş¶±§/
+E	Web:S1827g")Remove this deprecated "align" attribute.(ø‰ë‚8²Ş¶±§/
+ZWeb:FieldsetWithoutLegendCheck;"$Add a <legend> tag to this fieldset.(Ã úøÿÿÿÿ8Ë¯§/
+J	Web:S1827w")Remove this deprecated "align" attribute.(«îÈïşÿÿÿÿ8Ë¯§/
+K	Web:S1827“")Remove this deprecated "align" attribute.(«îÈïşÿÿÿÿ8Î€Š¨/
+K	Web:S1827•"/Remove this deprecated "cellspacing" attribute.(Ë¢€8Î€Š¨/
+F	Web:S1827¡")Remove this deprecated "align" attribute.(ÿ°8ÇÁ¨/
+F	Web:S1827¢")Remove this deprecated "scope" attribute.(—òü8ÇÁ¨/
+E	Web:S1827£")Remove this deprecated "scope" attribute.(Ìÿ8ÇÁ¨/
+F	Web:S1827¨")Remove this deprecated "align" attribute.(ÎÕÊÿ8ÇÁ¨/
+G	Web:S1827¨"*Remove this deprecated "height" attribute.(ÎÕÊÿ8ÇÁ¨/

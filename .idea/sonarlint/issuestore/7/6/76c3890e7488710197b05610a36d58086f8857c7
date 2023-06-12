@@ -1,0 +1,126 @@
+
+g
+java:S1192ó"KDefine a constant instead of duplicating this literal "edatetime" 10 times.(—¡èƒıÿÿÿÿ
+f
+java:S1192H"KDefine a constant instead of duplicating this literal "IDValCheck" 3 times.(†·ô²úÿÿÿÿ
+j
+java:S1192H"ODefine a constant instead of duplicating this literal "currentPageNo" 12 times.(†·ô²úÿÿÿÿ
+h
+java:S1192‡"LDefine a constant instead of duplicating this literal "cmsmanager/" 4 times.(ÿ¡ÈÎıÿÿÿÿ
+a
+java:S1192D"LDefine a constant instead of duplicating this literal "memberStore" 3 times.(ìéü^
+n
+java:S1192>"SDefine a constant instead of duplicating this literal "/login/sessionfail" 5 times.(Ö«·³úÿÿÿÿ
+d
+java:S1192³"HDefine a constant instead of duplicating this literal "email01" 3 times.(ìğñ¸üÿÿÿÿ
+g
+java:S1192í"KDefine a constant instead of duplicating this literal "sdatetime" 10 times.(­Á¢úÿÿÿÿ
+g
+java:S1192á"KDefine a constant instead of duplicating this literal "searchtype" 9 times.(§ìƒÊûÿÿÿÿ
+h
+java:S1192ç"LDefine a constant instead of duplicating this literal "searchtext" 11 times.(îîéÿÿÿÿÿ
+e
+java:S1192ù"IDefine a constant instead of duplicating this literal "logTypes" 5 times.(ñØ³×úÿÿÿÿ
+`
+java:S1192†"IDefine a constant instead of duplicating this literal "memberID" 7 times.(Üİ³
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·ô²úÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·ô²úÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·ô²úÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·ô²úÿÿÿÿ
+e	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§êM
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼çÚã
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¢¤Ê
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¦ŞŠşÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôÈìùÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôÈìùÿÿÿÿ
+f	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§êM
+N
+java:S2589Æ"7Remove this expression which always evaluates to "true"(‚Ç
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ
+m
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+V
+java:S1854;";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+H
+java:S1659H"-Declare "s_currentPageNo" on a separate line.(†·ô²úÿÿÿÿ
+D
+java:S1659H")Declare "s_inputPage" on a separate line.(†·ô²úÿÿÿÿ
+E
+java:S1659H"*Declare "s_IDValCheck" on a separate line.(†·ô²úÿÿÿÿ
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶“À¥
+Q	java:S125U"<This block of commented-out lines of code should be removed.(³ÓÖó
+X	java:S125c"<This block of commented-out lines of code should be removed.(ÂËÊŞ8»‡×°/
+Q	java:S125f"<This block of commented-out lines of code should be removed.(«÷âÂ
+n
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¡â2
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ï¿şÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛáüÄşÿÿÿÿ
+T
+java:S1197‡"8Move the array designator from the variable to the type.(ÒöÆšúÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(ê—¥ú
+O
+java:S1197¼"8Move the array designator from the variable to the type.(Ì¾Ï´
+Q	java:S125»"<This block of commented-out lines of code should be removed.(ÓÊ®
+W
+java:S2133¼"@Remove this object instantiation and use "Object.class" instead.(Ì¾Ï´
+R	java:S125½"<This block of commented-out lines of code should be removed.(ßÇİĞ
+o
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¡â2
+C
+java:S1125ï"'Remove the unnecessary boolean literal.(ÒĞğıÿÿÿÿ
+Q	java:S125ø"<This block of commented-out lines of code should be removed.(Å›A
+R	java:S125ı"<This block of commented-out lines of code should be removed.(ª…ñ­
+O
+java:S1197€"8Move the array designator from the variable to the type.(Ì¾Ï´
+W
+java:S2133€"@Remove this object instantiation and use "Object.class" instead.(Ì¾Ï´
+R	java:S125"<This block of commented-out lines of code should be removed.(ßÇİĞ
+>
+java:S1125ƒ"'Remove the unnecessary boolean literal.(ş‚”ä
+W	java:S125"<This block of commented-out lines of code should be removed.(ù‰íœøÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+n
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ã™Ğıÿÿÿÿ
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶“À¥
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛáüÄşÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“»¨úÿÿÿÿ
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶“À¥
+R	java:S125ï"<This block of commented-out lines of code should be removed.(½ú¤ı
+F
+java:S2093í"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+T
+java:S1197ù"8Move the array designator from the variable to the type.(Á§·Çıÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(µ¦ŠÕ
+j
+java:S4042†"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V	java:S899†";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+S
+java:S1854œ"<Remove this useless assignment to local variable "memberID".(Şğš…
+Z
+java:S1854™">Remove this useless assignment to local variable "IDValCheck".(¹üœøÿÿÿÿ
+W
+java:S1854”";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+D
+java:S1659–"(Declare "s_memberID" on a separate line.(ôôÈìùÿÿÿÿ
+G
+java:S1481;",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+K
+java:S1481â"/Remove this unused "totalCount" local variable.(À‰Ş•ûÿÿÿÿ
+H
+java:S1481”",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+E
+java:S1068)"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

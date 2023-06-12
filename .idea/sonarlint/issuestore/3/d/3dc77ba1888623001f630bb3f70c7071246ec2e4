@@ -1,0 +1,13 @@
+
+[
+java:S1128"@Remove this unused import 'com.company.cmstools.dao.FactoryDao'.(ÜŸ¡Ÿùÿÿÿÿ
+\
+java:S1128"GRemove this unused import 'com.company.cmstools.service.CommonService'.(Ï›“8
+1
+java:S3626C"Remove this redundant jump.(ûÁÝ…
+1
+java:S3626I"Remove this redundant jump.(ûÁÝ…
+V	java:S125'"<This block of commented-out lines of code should be removed.(…”Ääÿÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(ýÌ·®
+B
+java:S1125A"'Remove the unnecessary boolean literal.(¥ŸÛçúÿÿÿÿ

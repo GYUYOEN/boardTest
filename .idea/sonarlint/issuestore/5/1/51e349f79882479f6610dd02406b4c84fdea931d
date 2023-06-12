@@ -1,0 +1,98 @@
+
+a
+java:S1192L"KDefine a constant instead of duplicating this literal "memberName" 4 times.(‘ªá
+b
+java:S1192­"KDefine a constant instead of duplicating this literal "IDValCheck" 3 times.(ÛÒ–´
+^
+java:S1192M"IDefine a constant instead of duplicating this literal "memberLv" 4 times.(ŞŠ÷K
+g
+java:S1192–"PDefine a constant instead of duplicating this literal "/login/login.do" 3 times.(Ëé±š
+i
+java:S1192O"NDefine a constant instead of duplicating this literal "storeDataList" 4 times.(Šï‚Öøÿÿÿÿ
+g
+java:S1192u"LDefine a constant instead of duplicating this literal "cmsmanager/" 5 times.(ÿ¡ÈÎıÿÿÿÿ
+g
+java:S1192N"LDefine a constant instead of duplicating this literal "memberStore" 5 times.(ñ¥Ôùÿÿÿÿ
+b
+java:S1192K"GDefine a constant instead of duplicating this literal "passwd" 4 times.(˜ûå©ùÿÿÿÿ
+h
+java:S1192I"MDefine a constant instead of duplicating this literal "memberSerial" 5 times.(•Üªùÿÿÿÿ
+e
+java:S1192J"JDefine a constant instead of duplicating this literal "memberID" 12 times.(ÂÇŸ›úÿÿÿÿ
+`	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(™¸¬’ûÿÿÿÿ
+a	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(‡ì¯‡şÿÿÿÿ
+a	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(ÂåÔşÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÒ–´
+f	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§êM
+f	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó”ô
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôÈìùÿÿÿÿ
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôÈìùÿÿÿÿ
+f	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§êM
+e
+java:S2259 "IA "NullPointerException" could be thrown; "httpSession" is nullable here.(•Üªùÿÿÿÿ
+_
+java:S2583ƒ"CChange this condition so that it does not always evaluate to "true"(–ëú±ùÿÿÿÿ
+x
+java:S1488ı"ZImmediately return this expression instead of assigning it to the temporary variable "mv".(Êôãİ8·ùƒÖ°/
+q
+java:S1488µ"ZImmediately return this expression instead of assigning it to the temporary variable "mv".(£şÔ‹
+q
+java:S1488ä"ZImmediately return this expression instead of assigning it to the temporary variable "mv".(İ—Î
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'com.company.cmstools.dao.GameDataDaoContainer'.(É¤¹æıÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+V	java:S125"<This block of commented-out lines of code should be removed.(ã¬Öñúÿÿÿÿ
+P
+java:S1854:":Remove this useless assignment to local variable "logMap".(–¾¯
+V
+java:S18547";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+‡
+java:S11304"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(™¸¬’ûÿÿÿÿ
+M
+java:S1854W"7Remove this useless assignment to local variable "dir".(İ²â·
+S
+java:S1854‚"<Remove this useless assignment to local variable "memberid".(ïÇÚì
+=
+java:S1125V"'Remove the unnecessary boolean literal.(²Å»¿
+t
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Åİ—úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šï±Êùÿÿÿÿ
+R
+java:S1854¥";Remove this useless assignment to local variable "locales".(—•‰¡
+R
+java:S1854Ä";Remove this useless assignment to local variable "looting".(ê£ëù
+W	java:S125È"<This block of commented-out lines of code should be removed.(ºÜŠ®úÿÿÿÿ
+O
+java:S1197Ğ"8Move the array designator from the variable to the type.(Ì¾Ï´
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(³Îí…
+W
+java:S2133Ğ"@Remove this object instantiation and use "Object.class" instead.(Ì¾Ï´
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(ßÇİĞ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(¼šò¸
+W	java:S125ß"<This block of commented-out lines of code should be removed.(ù‰íœøÿÿÿÿ
+,
+java:S3457ê"Not enough arguments.(œäœ¦
+W	java:S125û"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+^	java:S125ş"<This block of commented-out lines of code should be removed.(Ÿº·Êùÿÿÿÿ8ÚùƒÖ°/
+ˆ
+java:S1130´"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‡ì¯‡şÿÿÿÿ
+ˆ
+java:S1130ã"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÂåÔşÿÿÿÿ
+S
+java:S1854ö"<Remove this useless assignment to local variable "memberID".(Şğš…
+Z
+java:S1854ó">Remove this useless assignment to local variable "IDValCheck".(¹üœøÿÿÿÿ
+W
+java:S1854î";Remove this useless assignment to local variable "locales".(À§·şÿÿÿÿ
+D
+java:S1659ğ"(Declare "s_memberID" on a separate line.(ôôÈìùÿÿÿÿ
+G
+java:S14817",Remove this unused "locales" local variable.(À§·şÿÿÿÿ
+A
+java:S1481:"+Remove this unused "logMap" local variable.(–¾¯
+H
+java:S1481î",Remove this unused "locales" local variable.(À§·şÿÿÿÿ

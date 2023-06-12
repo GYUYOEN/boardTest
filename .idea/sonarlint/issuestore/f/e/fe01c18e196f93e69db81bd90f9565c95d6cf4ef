@@ -1,0 +1,33 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+NWeb:TableWithoutCaptionCheckÂ" Add a description to this table.( Ò§åüÿÿÿÿ
+@	Web:S5256Â"%Add "<th>" headers to this "<table>".( Ò§åüÿÿÿÿ
+D	Web:S1827Â")Remove this deprecated "width" attribute.( Ò§åüÿÿÿÿ
+E	Web:S1827Ã"*Remove this deprecated "valign" attribute.(†•ı±ıÿÿÿÿ
+D	Web:S1827Ä")Remove this deprecated "width" attribute.(ë®Ñîúÿÿÿÿ
+E	Web:S1827Ò"/Remove this deprecated "cellspacing" attribute.(ŒòÈÕ
+A	Web:S1827Ò"+Remove this deprecated "summary" attribute.(ŒòÈÕ
+TWeb:FieldsetWithoutLegendCheckĞ"$Add a <legend> tag to this fieldset.(Ã úøÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÍ" Add a description to this table.(¼… £
+;	Web:S5256Í"%Add "<th>" headers to this "<table>".(¼… £
+?	Web:S1827Í")Remove this deprecated "width" attribute.(¼… £
+E	Web:S1827Í"/Remove this deprecated "cellpadding" attribute.(¼… £
+E	Web:S1827Í"/Remove this deprecated "cellspacing" attribute.(¼… £
+D	Web:S1827Ï")Remove this deprecated "width" attribute.(ŞÃåùÿÿÿÿ
+D	Web:S1827Ï")Remove this deprecated "align" attribute.(ŞÃåùÿÿÿÿ
+D	Web:S1827Ò")Remove this deprecated "width" attribute.(¯•¦‹ûÿÿÿÿ
+D	Web:S1827Ò")Remove this deprecated "align" attribute.(¯•¦‹ûÿÿÿÿ
+D	Web:S1827Ô")Remove this deprecated "width" attribute.(ºÀğõúÿÿÿÿ
+D	Web:S1827Ô")Remove this deprecated "align" attribute.(ºÀğõúÿÿÿÿ
+D	Web:S1827Ö")Remove this deprecated "width" attribute.(‚Ÿ­úÿÿÿÿ
+D	Web:S1827Ø")Remove this deprecated "width" attribute.(Ã×º…şÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "width" attribute.(œåòßüÿÿÿÿ
+D	Web:S1827Ù")Remove this deprecated "align" attribute.(œåòßüÿÿÿÿ
+D	Web:S1827í")Remove this deprecated "width" attribute.(œåòßüÿÿÿÿ
+D	Web:S1827í")Remove this deprecated "align" attribute.(œåòßüÿÿÿÿ
+D	Web:S1827ø"/Remove this deprecated "cellspacing" attribute.(Üãç'
+@	Web:S1827ø"+Remove this deprecated "summary" attribute.(Üãç'
+?	Web:S1827•")Remove this deprecated "align" attribute.(œ¼Á«
+WWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(«Ç»”øÿÿÿÿ

@@ -1,0 +1,24 @@
+
+_
+java:S1192M"IDefine a constant instead of duplicating this literal "classify" 3 times.(Çğá‚
+d
+java:S1192N"IDefine a constant instead of duplicating this literal "contents" 3 times.(ëßƒíûÿÿÿÿ
+\
+java:S1192J"FDefine a constant instead of duplicating this literal "goods" 3 times.(³Èğ
+c
+java:S1192O"HDefine a constant instead of duplicating this literal "recDate" 5 times.(‰Ú€ıÿÿÿÿ
+b
+java:S1192K"GDefine a constant instead of duplicating this literal "device" 3 times.(íÔáûÿÿÿÿ
+^
+java:S2259ø"@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù8„ÁÔèš/
+e
+java:S2259÷"BA "NullPointerException" could be thrown; "file" is nullable here.(²Œ­ûÿÿÿÿ8…ÁÔèš/
+q
+java:S4042÷"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ÁÔèš/
+]	java:S899÷";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ÁÔèš/
+M
+java:S2093í"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÁÔèš/
+L
+java:S1481ò")Remove this unused "name" local variable.(ú‹Ñøÿÿÿÿ8ÁÔèš/
+E
+java:S1068!"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

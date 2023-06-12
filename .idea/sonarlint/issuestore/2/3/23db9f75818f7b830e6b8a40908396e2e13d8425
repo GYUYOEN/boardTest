@@ -1,0 +1,89 @@
+
+b
+java:S1192d"LDefine a constant instead of duplicating this literal "receiptType" 3 times.(€ıïµ
+^
+java:S1192h"HDefine a constant instead of duplicating this literal "creDate" 3 times.(ˆÇı
+g
+java:S1192f"LDefine a constant instead of duplicating this literal "receiptDate" 3 times.(«¼æÉøÿÿÿÿ
+`
+java:S1192a"JDefine a constant instead of duplicating this literal "kioskType" 3 times.(ĞàŠ»
+\
+java:S1192O"FDefine a constant instead of duplicating this literal "payNo" 3 times.(È±ªã
+c
+java:S1192P"HDefine a constant instead of duplicating this literal "storeNo" 4 times.(ÀŸÈ˜ûÿÿÿÿ
+c
+java:S1192b"HDefine a constant instead of duplicating this literal "payType" 3 times.(Ã…Ôàûÿÿÿÿ
+c
+java:S1192Q"HDefine a constant instead of duplicating this literal "kioskNo" 4 times.(öèÿèüÿÿÿÿ
+_
+java:S1192e"JDefine a constant instead of duplicating this literal "receiptNo" 3 times.(ÏñŸa
+`
+java:S1192U"JDefine a constant instead of duplicating this literal "storeName" 3 times.(›•Ï
+e
+java:S1192\"JDefine a constant instead of duplicating this literal "kioskName" 3 times.(ŠÜé½úÿÿÿÿ
+b
+java:S1192g"LDefine a constant instead of duplicating this literal "billingData" 3 times.(ñ±óŸ
+T
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+U
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+U
+java:S1155¾">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+\
+java:S1155Ş">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À8 şñš¾/
+w
+java:S1488ª"[Immediately return this expression instead of assigning it to the temporary variable "ret".(‰Á©ıÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'com.google.zxing.client.j2se.MatrixToImageWriter'.(ı¯ÒÀ
+V
+java:S1128"ARemove this unused import 'com.google.zxing.qrcode.QRCodeWriter'.(õÙÕ.
+Z
+java:S1128"?Remove this unused import 'com.company.cmstools.dao.DefectDao'.(ÏÌ¿·øÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'com.google.zxing.WriterException'.(˜ÿß
+H
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû
+h
+java:S1128"MRemove this unused import 'com.google.zxing.client.j2se.MatrixToImageConfig'.(ªø üÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+T
+java:S1128">Remove this unused import 'com.google.zxing.common.BitMatrix'.(¯©“
+V
+java:S1128
+";Remove this unused import 'com.google.zxing.BarcodeFormat'.(Â«Â¯ıÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'com.company.cmstools.dao.GameDataDao'.(±Ñ”‹
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+m
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ÿ×¿³øÿÿÿÿ
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+m
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ä§²™ÿÿÿÿÿ
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¿äçøÿÿÿÿ
+u
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+u
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜØ×ëÿÿÿÿÿ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ã¿²Š
+u
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(†“´ÿüÿÿÿÿ
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+E
+java:S1068$"*Remove this unused "logger" private field.(ÜöÖ ûÿÿÿÿ

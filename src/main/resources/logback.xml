@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true" scan="true"  scanPeriod="30 seconds">
+	<property name="LOG_HOME" value="${catalina.base}/logs" />
+
+	<!--   Appender   -->
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<target>System.out</target>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger[%method:%line] - %msg%n</pattern>
+		</encoder>
+	</appender>
+	<appender name="STDERR" class="ch.qos.logback.core.ConsoleAppender">
+		<Target>System.err</Target>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger[%method:%line] - %msg%n</pattern>
+		</encoder>
+	</appender>
+	<appender name="ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${LOG_HOME}/application.log</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${LOG_HOME}/application.%d{yyyy-MM-dd}-%i.log</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>10MB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+		</rollingPolicy>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger[%method:%line] - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	
+	
+<!--	<root level="error">-->
+ 	<root level="info">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="ROLLING" />
+	</root>
+	
+	<logger name="com.company.board" level="INFO" />
+	<logger name="supervisorTag" level="info" additivity="false">
+		<appender-ref ref="STDERR" />
+		<appender-ref ref="ROLLING" />
+	</logger>
+
+<!-- 	<logger name="com.company.tools.interceptor" level="trace" /> -->
+<!-- 	<logger name="org.springframework" level="debug" /> -->
+<!-- 	<logger name="org.springframework.jdbc" level="debug" /> -->
+</configuration>

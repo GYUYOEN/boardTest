@@ -1,0 +1,14 @@
+
+k
+java:S1104"PMake plNo a static final constant or non-public and provide accessors if needed.(äõ¼ÿýÿÿÿÿ
+h
+java:S1104"SMake userNos a static final constant or non-public and provide accessors if needed.(å¨çc
+n
+java:S1104	"SMake toolsId a static final constant or non-public and provide accessors if needed.(û  Áüÿÿÿÿ
+j
+java:S1104
+"TMake contents a static final constant or non-public and provide accessors if needed.(úÒ“ò
+i
+java:S1104"NMake ip a static final constant or non-public and provide accessors if needed.(Ìî“Šùÿÿÿÿ
+n
+java:S1104"SMake creTime a static final constant or non-public and provide accessors if needed.(ËÖ˜Âûÿÿÿÿ
